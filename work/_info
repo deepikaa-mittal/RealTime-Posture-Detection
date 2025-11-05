@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vArrayMultiplier4Bit
+Z0 !s110 1754450345
+!i10b 1
+!s100 4O:inLjNU=b>KOc5[3cg=0
+I9dkMck];31U>W^b5JbNk:3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/verilog_multiplier_project
+Z3 w1754450294
+Z4 8C:/verilog_multiplier_project/4bit_array_multiplier.v
+Z5 FC:/verilog_multiplier_project/4bit_array_multiplier.v
+L0 27
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1754450345.000000
+Z8 !s107 C:/verilog_multiplier_project/4bit_array_multiplier.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/verilog_multiplier_project/4bit_array_multiplier.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@array@multiplier4@bit
+vfull_adder
+R0
+!i10b 1
+!s100 N=`DToKGQ5_kE8daj>:dJ0
+I`iNozY=dDdgaJoH78c7jH2
+R1
+R2
+R3
+R4
+R5
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vRippleCarryAdder4Bit
+R0
+!i10b 1
+!s100 Xe?GMiFGLi[^m146[4=hi0
+I70DOPES63amF@79fKEPG60
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@ripple@carry@adder4@bit
+vtestbench
+R0
+!i10b 1
+!s100 ;PIh]098lGjTfzbXWaH180
+I[^9UhHW48>7bmhXRlY?j=3
+R1
+R2
+w1754412509
+8C:/verilog_multiplier_project/testbench.v
+FC:/verilog_multiplier_project/testbench.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/verilog_multiplier_project/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/verilog_multiplier_project/testbench.v|
+!i113 1
+R10
+R11
